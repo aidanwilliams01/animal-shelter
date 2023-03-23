@@ -1,6 +1,48 @@
-.column {
-  width: 500px;
+.cats {
+  margin: auto;
+  width: 30%;
+  height: auto;
   float: left;
+  display: block;
   margin: 6px;
   border: 2px solid green;
+}
+
+.dogs {
+  margin: auto;
+  width: 30%;
+  height: auto;
+  float: left;
+  display: block;
+  margin: 6px;
+  border: 2px solid green;
+}
+
+.birds {
+  margin: auto;
+  width: 30%;
+  height: auto;
+  float: left;
+  display: block;
+  margin: 6px;
+  border: 2px solid green;
+}
+
+.image {
+  margin: auto;
+  width: 90%;
+  height: auto;
+  display: block;
+}
+
+.cats p {
+  background-color: lightblue;
+}
+
+.dogs p {
+  background-color: lightcoral;
+}
+
+.birds p {
+  background-color: lightyellow;
 }
