@@ -28,6 +28,15 @@
   border: 2px solid green;
 }
 
+.buttons {
+  margin: auto;
+  width: 5%;
+  height: auto;
+  float: left;
+  display: block;
+  margin: 6px;
+}
+
 .image {
   margin: auto;
   width: 90%;
